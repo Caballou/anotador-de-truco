@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/anotador-de-truco/static/css/main.e84cdbbf.css",
+    "main.js": "/anotador-de-truco/static/js/main.0e54ffa9.js",
+    "static/media/fondo.png": "/anotador-de-truco/static/media/fondo.1aef39f446f05fc09a22.png",
+    "index.html": "/anotador-de-truco/index.html",
+    "main.e84cdbbf.css.map": "/anotador-de-truco/static/css/main.e84cdbbf.css.map",
+    "main.0e54ffa9.js.map": "/anotador-de-truco/static/js/main.0e54ffa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e84cdbbf.css",
+    "static/js/main.0e54ffa9.js"
+  ]
+}
