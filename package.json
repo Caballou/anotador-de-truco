@@ -1,7 +1,7 @@
 {
   "name": "anotador-de-truco",
   "version": "0.1.0",
-  "homepage": "https://Caballou.github.io/anotador-de-truco",
+  "homepage": "https://caballou.github.io/anotador-de-truco",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
