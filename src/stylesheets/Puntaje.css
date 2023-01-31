@@ -1,0 +1,13 @@
+.puntos {
+  height: 82%;
+  width: 88%;
+  background-color: rgba(0, 0, 0, 0.795);
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  height: 95%;
+}
