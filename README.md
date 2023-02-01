@@ -5,3 +5,7 @@ Anotador para el juego de cartas "truco", originario de España y jugado frecuen
 # "TRUCO" SCOREBOARD
 
 Scoreboard for the card game "truco", originally from Spain and frequently played in several South American countries. In this case, the points are indicated with fernet bottles (Mint fernet for the first 15 points and original fernet for the last 15 points), with a "asado" background. This is in reference to the Argentine gatherings where people usually drink fernet, eat grilled meat, and play TRUCO with friends!
+
+----------------------------------------------------------------------------------------------------------------------------
+
+🌐Link: https://caballou.github.io/anotador-de-truco/
