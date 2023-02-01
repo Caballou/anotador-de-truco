@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anotador-de-truco/static/css/main.66f1184b.css",
-    "main.js": "/anotador-de-truco/static/js/main.2b23d1a5.js",
+    "main.js": "/anotador-de-truco/static/js/main.0e4cf866.js",
     "static/media/fondo.png": "/anotador-de-truco/static/media/fondo.6587132660b91d087100.png",
     "index.html": "/anotador-de-truco/index.html",
     "main.66f1184b.css.map": "/anotador-de-truco/static/css/main.66f1184b.css.map",
-    "main.2b23d1a5.js.map": "/anotador-de-truco/static/js/main.2b23d1a5.js.map"
+    "main.0e4cf866.js.map": "/anotador-de-truco/static/js/main.0e4cf866.js.map"
   },
   "entrypoints": [
     "static/css/main.66f1184b.css",
-    "static/js/main.2b23d1a5.js"
+    "static/js/main.0e4cf866.js"
   ]
 }
