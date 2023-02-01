@@ -5,8 +5,8 @@ function Puntaje({ numPuntos }){
   return (
     <div className='puntos'>
       {
-      numPuntos != 0 ?
-      <img className='fernet' src={`/img/fernet-${numPuntos}.png`} alt='fernecitos'></img>
+      numPuntos !== 0 ?
+      <img className='fernet' src={`./anotador-de-truco/img/fernet-${numPuntos}.png`} alt='fernecitos'></img>
       :
       ''
       }
