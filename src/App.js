@@ -63,6 +63,7 @@ function App() {
         </div>
         <div className='reinicio-container'>
           <Boton cambiarPuntos={reiniciarPuntos}>Reinicio</Boton>
+          <span className='firma'>by Caballou 🐴</span>
         </div> 
       </div>
     </div>

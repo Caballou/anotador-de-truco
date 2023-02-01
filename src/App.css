@@ -88,3 +88,8 @@ h1 {
 .reinicio-container {
   margin: 10px auto;
 }
+
+.firma {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+}
